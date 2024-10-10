@@ -11,7 +11,7 @@ const CookingNavbar = () => {
     toast("logged out successfully");
   };
   return (
-    <nav className="bg-blue-300 shadow-md text-[#e0e0e0]">
+    <nav className="bg-[#4a4a4a] shadow-md text-[#e0e0e0]">
       <div className="container mx-auto flex justify-between  items-center p-4">
         <NavLink to="/" className="text-[#e0e0e0] text-2xl font-bold">
           <div className="flex flex-row hover:cursor-default">
