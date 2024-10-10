@@ -111,7 +111,7 @@ const Home = () => {
     setvisible1(true);
   };
   return (
-    <div className="bg-gray-100  min-h-screen">
+    <div className="bg-blue-400  min-h-screen">
       {/* Header */}
       <header
         className=" h-[80vh] w-[100%] bg-[#cbcbcb]  text-[#4a4a4a] text-center p-6 flex  justify-start "
