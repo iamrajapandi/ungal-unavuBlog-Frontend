@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_API = "https://ungal-unavublog-backend.onrender.com";
+const SERVER_API = "https://render.com/docs/web-services#port-binding";
 
 
 // const getrecipes = () => axios.get(`${MOCK_API}/recipe`);
