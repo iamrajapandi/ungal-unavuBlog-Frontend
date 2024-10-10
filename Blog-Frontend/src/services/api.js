@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_API = "https://render.com/docs/web-services#port-binding";
+const SERVER_API = import.meta.env.VITE_SERVER_APP_URL;
 
 
 // const getrecipes = () => axios.get(`${MOCK_API}/recipe`);
